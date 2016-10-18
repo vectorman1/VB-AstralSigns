@@ -1,0 +1,11 @@
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\bin\Debug\AstralSigns.exe
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\bin\Debug\AstralSigns.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\bin\Debug\AstralSigns.xml
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\AstralSigns.Form1.resources
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\AstralSigns.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\AstralSigns.exe
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\AstralSigns.xml
+C:\Users\Student\AppData\Local\Temporary Projects\AstralSigns\obj\x86\Debug\AstralSigns.pdb
